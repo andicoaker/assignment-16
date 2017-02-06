@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box; }
+
+img {
+  width: 100%;
+  display: block; }
+
+.tomato {
+  background-image: url("../images/tomato-red-silhouette.svg");
+  background-size: cover;
+  background-position: bottom;
+  margin-left: 200px;
+  width: 800px;
+  height: 800px; }
+
+.countdown-container {
+  text-align: center;
+  padding-top: 250px; }
+
+.countdown-timer {
+  color: #ead34a;
+  text-align: center;
+  font-size: 200px; }
+
+.tomato-input-text {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.3); }
+
+input {
+  height: 50px;
+  border-bottom-color: #636060;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  border-bottom-width: 4px;
+  width: 60%;
+  margin-left: 200px; }
+
+.fa fa-plus-square {
+  color: #607eb5; }
+
+/*# sourceMappingURL=styles.css.map */
